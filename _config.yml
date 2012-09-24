@@ -1,0 +1,5 @@
+safe: true
+source: ./
+destination: ./build
+lsi: false
+pygments: true
