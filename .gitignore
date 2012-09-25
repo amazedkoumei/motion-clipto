@@ -1,0 +1,6 @@
+.repl_history
+build
+Rakefile
+resources/*.nib
+resources/*.momd
+resources/*.storyboardc
