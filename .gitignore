@@ -1,6 +1,8 @@
 .repl_history
 build
+vendor
 Rakefile
+app/testflight_launcher.rb
 resources/*.nib
 resources/*.momd
 resources/*.storyboardc
