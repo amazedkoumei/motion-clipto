@@ -1,6 +1,23 @@
 safe: true
+baseurl: /motion-clipto
 source: ./
-destination: ./build
+destination: ./_site
 lsi: false
 pygments: true
-RDiscount: rdiscount
+Markdown: kramdown
+kramdown:
+ use_coderay: true
+
+project: motion-clipto
+name: ClipTo
+description: this is ios app for jumping to another service with the content of clipboard. 
+
+page_list: 
+- name: Home
+  url: /
+- name: Guideline
+  url: /guideline.html
+
+github:
+  url: http://guthub.com/amazedkoumei/motion-clipto
+  repo: motion-clipto
