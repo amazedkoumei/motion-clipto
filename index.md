@@ -23,9 +23,3 @@ permalink: /
 
 ---
 
-#### for Developer
-* ClipTo is Written by [RubyMotion](http://www.rubymotion.com/).
-* You can run ClipTo in your iPhone after download source code and build.
-
-
----
